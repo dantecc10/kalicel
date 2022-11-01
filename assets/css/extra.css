@@ -1,3 +1,18 @@
+/*Reglas generales*/
 .bordeRojo {
     -webkit-text-stroke: 2px #fe0000;
+}
+
+#títuloNavbar {
+    font-family: revert;
+    text-decoration: none;
+}
+
+/*Reglas responsivas*/
+@media only screen and (max-width: 768px) and (min-width: 991px) {
+    #títuloNavbar {
+        margin-left: -426px;
+        font-size: 30px;
+        -webkit-text-stroke: 2.5px red;
+    }
 }
