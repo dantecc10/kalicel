@@ -8,7 +8,10 @@
     text-decoration: none;
 }
 
-
+#LogoNavBar {
+    height: auto;
+    width: 10%;
+}
 
 /*Reglas responsivas*/
 @media only screen and (max-width: 768px) {
