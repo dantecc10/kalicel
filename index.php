@@ -30,7 +30,7 @@
                 <ul class="navbar-nav ms-auto text-uppercase">
                     <li class="nav-item"><a class="nav-link" href="#servicios">Servicios</a></li>
                     <li class="nav-item"><a class="nav-link" href="#portfolio">Reparaciones</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#acercaDe">Acerca de</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#políticas">Políticas de garantía</a></li>
                     <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
                 </ul>
@@ -161,7 +161,7 @@
             </div>
         </div>
     </section>
-    <section id="acercaDe">
+    <section id="políticas">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
@@ -173,7 +173,7 @@
                 <div class="col-lg-12">
                     <ul class="list-group timeline">
                         <li class="list-group-item">
-                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/acercaDe/1.jpg"></div>
+                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/políticas/1.jpg"></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>2009-2011</h4>
@@ -188,7 +188,7 @@
                             </div>
                         </li>
                         <li class="list-group-item timeline-inverted">
-                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/acercaDe/2.jpg"></div>
+                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/políticas/2.jpg"></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>March 2011</h4>
@@ -203,7 +203,7 @@
                             </div>
                         </li>
                         <li class="list-group-item">
-                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/acercaDe/3.jpg"></div>
+                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/políticas/3.jpg"></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>December 2012</h4>
@@ -218,7 +218,7 @@
                             </div>
                         </li>
                         <li class="list-group-item timeline-inverted">
-                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/acercaDe/4.jpg"></div>
+                            <div class="timeline-image"><img class="rounded-circle img-fluid" src="/assets/img/políticas/4.jpg"></div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
                                     <h4>July 2014</h4>
