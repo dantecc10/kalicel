@@ -134,8 +134,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/4-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Reparación de software</h4>
-                        <p class="text-muted">Branding</p>
+                        <h4>Carga</h4>
+                        <p class="text-muted">y recuperación de software.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal5" data-bs-toggle="modal">
@@ -145,7 +145,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Actualización</h4>
-                        <p class="text-muted">Actualización y mantenimiento de equipo de cómputo</p>
+                        <p class="text-muted"> y mantenimiento de equipo de cómputo.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal6" data-bs-toggle="modal">
@@ -247,8 +247,8 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member"><img class="rounded-circle mx-auto" src="/assets/img/team/1.jpg">
-                        <h4>Kay Garland</h4>
-                        <p class="text-muted">Lead Designer</p>
+                        <h4>Luis Enrique Reyes Fernández</h4>
+                        <p class="text-muted">Ingeniería Mecatrónica</p>
                         <ul class="list-inline social-buttons">
                             <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
@@ -258,8 +258,8 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member"><img class="rounded-circle mx-auto" src="/assets/img/team/2.jpg">
-                        <h4>Larry Parker</h4>
-                        <p class="text-muted">Lead Marketer</p>
+                        <h4>Rosalba Nazareth Zárate Morales</h4>
+                        <p class="text-muted">Ingeniería Mecatrónica</p>
                         <ul class="list-inline social-buttons">
                             <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
@@ -269,8 +269,19 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member"><img class="rounded-circle mx-auto" src="/assets/img/team/3.jpg">
-                        <h4>Diana Pertersen</h4>
-                        <p class="text-muted">Lead Developer</p>
+                        <h4>Carlos Abelino</h4>
+                        <p class="text-muted">Ingeniería --</p>
+                        <ul class="list-inline social-buttons">
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="team-member"><img class="rounded-circle mx-auto" src="/assets/img/team/3.jpg">
+                        <h4>Dante Castelán Carpinteyro</h4>
+                        <p class="text-muted">--</p>
                         <ul class="list-inline social-buttons">
                             <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
