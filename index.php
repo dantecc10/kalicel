@@ -94,7 +94,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="text-uppercase section-heading">Reparaciones</h2>
-                    <h3 class="text-muted section-subheading">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h3 class="text-muted section-subheading">Consulta a detalle nuestras reparaciones: </h3>
                 </div>
             </div>
             <div class="row">
