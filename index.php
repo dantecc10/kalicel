@@ -104,8 +104,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/1-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Threads</h4>
-                        <p class="text-muted">Illustration</p>
+                        <h4>Reparación multimarca</h4>
+                        <p class="text-muted">iPhone / Android</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal2" data-bs-toggle="modal">
@@ -114,8 +114,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/2-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Explore</h4>
-                        <p class="text-muted">Graphic Design</p>
+                        <h4>Reconstrucción</h4>
+                        <p class="text-muted">Reconstrucción de pantallas y cambio de display</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal3" data-bs-toggle="modal">
@@ -124,8 +124,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/3-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Finish</h4>
-                        <p class="text-muted">Identity</p>
+                        <h4>Reparación de laptops</h4>
+                        <p class="text-muted">Software y hardware</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal4" data-bs-toggle="modal">
@@ -134,7 +134,7 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/4-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Lines</h4>
+                        <h4>Reparación de software</h4>
                         <p class="text-muted">Branding</p>
                     </div>
                 </div>
@@ -144,8 +144,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/5-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Southwest</h4>
-                        <p class="text-muted">Website Design</p>
+                        <h4>Actualización</h4>
+                        <p class="text-muted">Actualización y mantenimiento de equipo de cómputo</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal6" data-bs-toggle="modal">
