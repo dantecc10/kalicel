@@ -70,7 +70,7 @@
                         </svg></span>
                     <h4 class="section-heading">Reparaciones a nivel componente y microsoldadura</h4>
                     <p class="text-muted">Hacemos reflow, reballing, lectura de particiones de memoria por conexión
-                        directa ISP, y sustitución de componentes dañados a cualquier dispositivo.</p>
+                        directa ISP, y sustitución de componentes dañados a cualquier dispositivo de microelectrónica.</p>
                 </div>
                 <div class="col-md-4"><span class="fa-stack fa-4x"><i class="fa fa-circle fa-stack-2x text-primary"></i><svg xmlns="http://www.w3.org/2000/svg" viewBox="-64 0 512 512" width="1em" height="1em" fill="currentColor" class="fa-stack-1x fa-inverse" style="padding-top: 0px;margin-top: 32px;">
                             <!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc. -->
