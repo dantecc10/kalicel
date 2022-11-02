@@ -8,11 +8,6 @@
     text-decoration: none;
 }
 
-#LogoNavBar {
-    height: auto;
-    width: 10%;
-}
-
 /*Reglas responsivas*/
 @media only screen and (max-width: 768px) {
     #títuloNavbar {
@@ -37,5 +32,18 @@
     #LogoNavBar {
         height: auto;
         width: 5%;
+    }
+}
+
+@media only screen and (min-width: 991px) {
+    #títuloNavbar {
+        margin-left: -426px;
+        font-size: 30px;
+        -webkit-text-stroke: 2.5px red;
+    }
+
+    #LogoNavBar {
+        height: auto;
+        width: 7.55%;
     }
 }
