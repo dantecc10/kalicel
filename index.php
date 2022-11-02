@@ -304,7 +304,7 @@
                             </div>
                             <div class="w-100"></div>
                             <div class="col-lg-12 text-center">
-                                <div id="success"></div><button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Enviar mennsaje</button>
+                                <div id="success"></div><button class="btn btn-primary btn-xl text-uppercase" id="sendMessageButton" type="submit">Enviar mensaje</button>
                             </div>
                         </div>
                     </form>
