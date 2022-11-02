@@ -154,8 +154,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/6-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Window</h4>
-                        <p class="text-muted">Photography</p>
+                        <h4>Compra</h4>
+                        <p class="text-muted">de equipos dañados, rotos o mojados para despiece.</p>
                     </div>
                 </div>
             </div>
@@ -165,8 +165,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="text-uppercase">Acerca de</h2>
-                    <h3 class="text-muted section-subheading">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="text-uppercase">Políticas de garantía</h2>
+                    <h3 class="text-muted section-subheading">Para proporcionarle la mejor experiencia de servicio, nos apegamos a la siguiente política de servicio:</h3>
                 </div>
             </div>
             <div class="row">
