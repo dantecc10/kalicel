@@ -4,16 +4,16 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-    <title>Kalicel - Inicio</title>
+    <title>KALICEL - Inicio</title>
     <meta name="author" content="Dante Castelán Carpinteyro">
     <meta property="og:image" content="https://kalicel.castelancarpinteyro.club/assets/img/PORTADA-KALICEL.jpg">
     <meta property="og:type" content="website">
     <meta name="description" content="Reparación de celulares, tablets y PC's">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/extra.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -23,8 +23,8 @@
 <body id="page-top" data-bs-spy="scroll" data-bs-target="#mainNav" data-bs-offset="54">
     <nav class="navbar navbar-dark navbar-expand-lg fixed-top bg-dark" id="mainNav">
         <div class="container">
-            <img src="assets\img\ícono-Kalicel.png" id="LogoNavBar">
-            <a id="títuloNavBar" href="#page-top">Kalicel</a>
+            <img src="assets\img\ícono-KALICEL.png" id="LogoNavBar">
+            <a id="títuloNavBar" href="#page-top">KALICEL</a>
             <button data-bs-toggle="collapse" data-bs-target="#navbarResponsive" class="navbar-toggler navbar-toggler-right" type="button" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><i class="fa fa-bars"></i></button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto text-uppercase">
@@ -315,7 +315,7 @@
     <footer>
         <div class="container">
             <div class="row">
-                <div class="col-md-4"><span class="copyright">Copyright&nbsp;© Kalicel 2022</span></div>
+                <div class="col-md-4"><span class="copyright">Copyright&nbsp;© KALICEL 2022</span></div>
                 <div class="col-md-4">
                     <ul class="list-inline social-buttons">
                         <li class="list-inline-item"><a href="https://www.facebook.com/kalicelrepair"><i class="fa fa-facebook"></i></a></li>

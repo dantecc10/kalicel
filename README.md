@@ -1,2 +1,2 @@
 # kalicel
-Proyecto de página web para Kalicel
+Proyecto de página web para KALICEL
