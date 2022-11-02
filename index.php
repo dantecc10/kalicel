@@ -9,11 +9,11 @@
     <meta property="og:image" content="https://kalicel.castelancarpinteyro.club/assets/img/PORTADA-KALICEL.jpg">
     <meta property="og:type" content="website">
     <meta name="description" content="Reparación de celulares, tablets y PC's">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
-    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-KALICEL.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
+    <link rel="icon" type="image/jpeg" sizes="96F0x957" href="/assets/img/ícono-Kalicel.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
+    <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/extra.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -29,7 +29,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto text-uppercase">
                     <li class="nav-item"><a class="nav-link" href="#servicios">Servicios</a></li>
-                    <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#portfolio">Reparaciones</a></li>
                     <li class="nav-item"><a class="nav-link" href="#acercaDe">Acerca de</a></li>
                     <li class="nav-item"><a class="nav-link" href="#team">Team</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
@@ -93,7 +93,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="text-uppercase section-heading">Portfolio</h2>
+                    <h2 class="text-uppercase section-heading">Reparaciones</h2>
                     <h3 class="text-muted section-subheading">Lorem ipsum dolor sit amet consectetur.</h3>
                 </div>
             </div>
