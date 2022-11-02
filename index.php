@@ -105,7 +105,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reparación multimarca</h4>
-                        <p class="text-muted">iPhone / Android</p>
+                        <p class="text-muted">para iOS y Android.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal2" data-bs-toggle="modal">
@@ -115,7 +115,7 @@
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reconstrucción</h4>
-                        <p class="text-muted">Reconstrucción de pantallas y cambio de display</p>
+                        <p class="text-muted">de pantallas y cambio de display.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal3" data-bs-toggle="modal">
@@ -124,8 +124,8 @@
                         </div><img class="img-fluid" src="/assets/img/portfolio/3-thumbnail.jpg">
                     </a>
                     <div class="portfolio-caption">
-                        <h4>Reparación de laptops</h4>
-                        <p class="text-muted">Software y hardware</p>
+                        <h4>Reparación</h4>
+                        <p class="text-muted">de laptops; software y hardware.</p>
                     </div>
                 </div>
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal4" data-bs-toggle="modal">
