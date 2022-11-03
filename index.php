@@ -269,7 +269,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member"><img class="rounded-circle mx-auto" src="/assets/img/team/3.jpg">
-                        <h4>Carlos Abelino</h4>
+                        <h4>Carlos Eduardo Abelino Olvera</h4>
                         <p class="text-muted">Ingeniería --</p>
                         <ul class="list-inline social-buttons">
                             <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
