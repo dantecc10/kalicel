@@ -101,7 +101,7 @@
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal1" data-bs-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="/assets/img/portfolio/1-thumbnail.jpg">
+                        </div><img class="img-fluid" src="/assets/img/iOS-Android.webp">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reparación multimarca</h4>
