@@ -131,7 +131,7 @@
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal4" data-bs-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="/assets/img/portfolio/4-thumbnail.jpg">
+                        </div><img class="img-fluid" src="/assets/img/carga-software.jpeg">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Carga</h4>
@@ -141,7 +141,7 @@
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal5" data-bs-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="/assets/img/portfolio/5-thumbnail.jpg">
+                        </div><img class="img-fluid" src="/assets/img/actualiza-laptops.jpg">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Actualización</h4>
@@ -401,7 +401,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/3-full.jpg">
+                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/reparación-laptop.jpg">
                                 <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
                                     adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
                                     repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
@@ -426,7 +426,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/4-full.jpg">
+                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/carga-software.jpeg">
                                 <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
                                     adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
                                     repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
@@ -451,7 +451,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/5-full.jpg">
+                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/actualiza-laptops.jpg">
                                 <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
                                     adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
                                     repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
