@@ -111,7 +111,7 @@
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal2" data-bs-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="/assets/img/portfolio/2-thumbnail.jpg">
+                        </div><img class="img-fluid" src="/assets/img/reparación-display-samsung.jpg">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reconstrucción</h4>
