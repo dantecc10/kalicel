@@ -121,7 +121,7 @@
                 <div class="col-sm-6 col-md-4 portfolio-item"><a class="portfolio-link" href="#portfolioModal3" data-bs-toggle="modal">
                         <div class="portfolio-hover">
                             <div class="portfolio-hover-content"><i class="fa fa-plus fa-3x"></i></div>
-                        </div><img class="img-fluid" src="/assets/img/portfolio/3-thumbnail.jpg">
+                        </div><img class="img-fluid" src="/assets/img/reparación-laptop.jpg">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reparación</h4>
