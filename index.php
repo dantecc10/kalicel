@@ -350,12 +350,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/iOS-Android.webp">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/iOS-Android.webp">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
@@ -375,12 +372,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/reparación-display-samsung.jpg">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/reparación-display-samsung.jpg">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
@@ -400,12 +394,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/reparación-laptop.jpg">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/reparación-laptop.jpg">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
@@ -425,12 +416,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/carga-software.jpeg">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/carga-software.jpeg">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
@@ -450,12 +438,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/actualiza-laptops.jpg">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/actualiza-laptops.jpg">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
@@ -475,12 +460,9 @@
                     <div class="row">
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
-                                <h2 class="text-uppercase">Project Name</h2>
-                                <p class="text-muted item-intro">Lorem ipsum dolor sit amet consectetur.</p><img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/6-full.jpg">
-                                <p>Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur
-                                    adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt
-                                    repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae,
-                                    nostrum, reiciendis facere nemo!</p>
+                                <h2 class="text-uppercase">Reparación</h2>
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/portfolio/6-full.jpg">
+                                <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
                                     <li>Client: Threads</li>
