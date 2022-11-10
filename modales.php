@@ -1,8 +1,3 @@
-<link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
-<link rel="stylesheet" href="/assets/css/extra.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<link rel="stylesheet" href="/assets/css/styles.min.css">
-
 <div class="modal fade text-center portfolio-modal" role="dialog" tabindex="-1" id="portfolioModal1">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
