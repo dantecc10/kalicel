@@ -151,7 +151,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="/assets/img/reparación-laptop.jpg">
+                        <img class="img-fluid" src="/assets/img/reparación-laptop.png">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reparación</h4>
