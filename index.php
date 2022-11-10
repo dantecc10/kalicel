@@ -309,7 +309,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/1.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/kalicel-staff.png">
                         <h4>Luis Enrique Reyes Fernández</h4>
                         <p class="text-muted">
                             Ingeniería Mecatrónica
@@ -323,7 +323,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/2.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/team/rosalba_nzm.jpg">
                         <h4>Rosalba Nazareth Zárate Morales</h4>
                         <p class="text-muted">
                             Ingeniería Mecatrónica
@@ -337,7 +337,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/3.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/kalicel-staff.png">
                         <h4>Carlos Eduardo Abelino Olvera</h4>
                         <p class="text-muted">
                             Técnico
@@ -351,7 +351,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/3.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/kalicel-staff.png">
                         <h4>Dante Castelán Carpinteyro</h4>
                         <p class="text-muted">
                             --
