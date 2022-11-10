@@ -248,7 +248,7 @@
                         </p>
                         <ul class="list-inline social-buttons">
                             <li class="list-inline-item"><a href="https://www.facebook.com/rosalba.zarate.171098"><i class="fa fa-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="https://wa.me/5212225209776?text=Hola,%20quiero%20consultar%20acerca%20de%20una%20reparación...%20"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="list-inline-item"><a href="https://wa.me/522225209776?text=Hola,%20quiero%20consultar%20acerca%20de%20una%20reparación...%20"><i class="fa fa-whatsapp"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
                         </ul>
                     </div>
@@ -262,8 +262,8 @@
                             --
                         </p>
                         <ul class="list-inline social-buttons">
-                            <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
+                            <li class="list-inline-item"><a href="https://www.facebook.com/DanteCC10.4T/"><i class="fa fa-facebook"></i></a></li>
+                            <li class="list-inline-item"><a href="https://wa.me/527979773095?text=Hola,%20quiero%20consultar%20acerca%20de%20una%20reparación...%20"><i class="fa fa-whatsapp"></i></a></li>
                             <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
                         </ul>
                     </div>
