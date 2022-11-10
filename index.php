@@ -183,7 +183,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="/assets/img/actualiza-laptops.jpg">
+                        <img class="img-fluid" src="/assets/img/actualiza-laptops.png">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Actualización</h4>

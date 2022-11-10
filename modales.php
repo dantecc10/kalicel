@@ -94,7 +94,7 @@
                         <div class="col-lg-8 mx-auto">
                             <div class="modal-body">
                                 <h2 class="text-uppercase">Reparación</h2>
-                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/actualiza-laptops.jpg">
+                                <p class="text-muted item-intro">Complemento reparación.</p><img class="img-fluid d-block mx-auto" src="/assets/img/actualiza-laptops.png">
                                 <p>Descripción y detalle completo sobre la reparación.</p>
                                 <ul class="list-unstyled">
                                     <li>Date: January 2017</li>
