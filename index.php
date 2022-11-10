@@ -323,7 +323,7 @@
                 </div>
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/rosalba_nzm.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/team/rosalba_nzm.png">
                         <h4>Rosalba Nazareth Zárate Morales</h4>
                         <p class="text-muted">
                             Ingeniería Mecatrónica
