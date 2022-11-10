@@ -12,12 +12,15 @@
     background-image: url("assets/img/pcb-blackwebp.webp");
 }
 
-.modal-content .modal-body h2.text-uppercase{
-    
+.modal-content .modal-body h2.text-uppercase {
+    /*margin-left: -426px;
+    font-size: 30px;*/
+    -webkit-text-stroke: 2.5px red;
+    font-family: revert;
+    text-decoration: none;
 }
-.modal-content .modal-body p.text-muted.item-intro{
 
-}
+.modal-content .modal-body p.text-muted.item-intro {}
 
 /*Reglas responsivas*/
 @media only screen and (max-width: 768px) {
