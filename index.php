@@ -135,7 +135,7 @@
                                 <i class="fa fa-plus fa-3x"></i>
                             </div>
                         </div>
-                        <img class="img-fluid" src="/assets/img/reparación-display-samsung.jpg">
+                        <img class="img-fluid" src="/assets/img/reparación-display-samsung.png">
                     </a>
                     <div class="portfolio-caption">
                         <h4>Reconstrucción</h4>
