@@ -14,6 +14,7 @@
     <link rel="icon" type="image/jpeg" sizes="96F0x957" href="/assets/img/ícono-Kalicel.png">
     <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
     <link rel="icon" type="image/jpeg" sizes="960x957" href="/assets/img/ícono-Kalicel.png">
+    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="/assets/bootstrap/css/bootstrap.min.css">
     <link rel="stylesheet" href="/assets/css/extra.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
