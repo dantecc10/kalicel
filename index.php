@@ -253,20 +253,7 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-sm-4">
-                    <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/kalicel-staff.png">
-                        <h4>Carlos Eduardo Abelino Olvera</h4>
-                        <p class="text-muted">
-                            Técnico
-                        </p>
-                        <ul class="list-inline social-buttons">
-                            <li class="list-inline-item"><a href="#"><i class="fa fa-facebook"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="fa fa-whatsapp"></i></a></li>
-                            <li class="list-inline-item"><a href="#"><i class="fa fa-twitter"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
+
                 <div class="col-sm-4">
                     <div class="team-member">
                         <img class="rounded-circle mx-auto" src="/assets/img/kalicel-staff.png">
