@@ -10,6 +10,7 @@
 
 .modal-content {
     background-image: url("../img/pcb-blackwebp.webp");
+    color: white;
 }
 
 .modal-content .modal-body h2.text-uppercase {
@@ -18,7 +19,6 @@
     -webkit-text-stroke: 2.5px red;
     font-family: revert;
     text-decoration: none;
-    color: white;
 }
 
 .modal-content .modal-body p.text-muted.item-intro {}
