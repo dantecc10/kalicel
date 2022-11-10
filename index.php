@@ -56,7 +56,7 @@
             <div class="row">
                 <div class="col-lg-12 text-center">
                     <h2 class="text-uppercase section-heading">Servicios</h2>
-                    <h3 class="text-muted section-subheading">Hacemos reparaciones de los siguientes tipos:</h3>
+                    <h3 class="text-muted section-subheading"></h3>
                 </div>
             </div>
             <div class="row text-center">
