@@ -309,7 +309,7 @@
             <div class="row">
                 <div class="col-sm-4">
                     <div class="team-member">
-                        <img class="rounded-circle mx-auto" src="/assets/img/team/luis_erf.jpg">
+                        <img class="rounded-circle mx-auto" src="/assets/img/team/luis_erf.png">
                         <h4>Luis Enrique Reyes Fernández</h4>
                         <p class="text-muted">
                             Ingeniería Mecatrónica
