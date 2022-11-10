@@ -12,6 +12,13 @@
     background-image: url("assets/img/pcb-blackwebp.webp");
 }
 
+.modal-content .modal-body h2.text-uppercase{
+    
+}
+.modal-content .modal-body p.text-muted.item-intro{
+
+}
+
 /*Reglas responsivas*/
 @media only screen and (max-width: 768px) {
     #títuloNavbar {

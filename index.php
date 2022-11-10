@@ -41,7 +41,7 @@
         <div class="container">
             <div class="intro-text">
                 <div class="intro-lead-in bordeRojo">
-                    <span>Bienvenido a KALICEL</span>
+                    <span id="bienvenida-kalicel">Bienvenido a KALICEL</span>
                 </div>
                 <div class="intro-heading text-uppercase bordeRojo">
                     <span>Nosotros reparamos</span>
