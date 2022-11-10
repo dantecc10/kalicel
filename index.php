@@ -216,8 +216,9 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="text-uppercase">Políticas de garantía</h2>
-                    <h3 class="text-muted section-subheading">Para proporcionarle la mejor experiencia de servicio, nos apegamos a la siguiente política de servicio:</h3>
+                    <?php
+                    include 'políticas-garantía.php';
+                    ?>
                 </div>
             </div>
         </div>
