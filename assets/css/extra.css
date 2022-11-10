@@ -18,6 +18,7 @@
     -webkit-text-stroke: 2.5px red;
     font-family: revert;
     text-decoration: none;
+    color: white;
 }
 
 .modal-content .modal-body p.text-muted.item-intro {}
