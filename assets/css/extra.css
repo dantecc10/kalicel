@@ -8,6 +8,10 @@
     text-decoration: none;
 }
 
+.modal-content {
+    background-image: url("assets/img/pcb-blackwebp.webp");
+}
+
 /*Reglas responsivas*/
 @media only screen and (max-width: 768px) {
     #títuloNavbar {
