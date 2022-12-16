@@ -1,3 +1,7 @@
+<?php
+?>
+
+
 <div class="modal fade text-center portfolio-modal" role="dialog" tabindex="-1" id="portfolioModal1">
     <div class="modal-dialog modal-lg" role="document">
         <div class="modal-content">
